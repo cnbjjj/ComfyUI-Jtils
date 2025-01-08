@@ -23,7 +23,7 @@ An extension for ComfyUI that adds utility functions and nodes not available in 
 2. Restart ComfyUI.
 
 #### From Manager
-(Coming Soon)
+Search for "ComfyUI-Jtils" in the manager and install it from there.
 
 ### Changelog
 - **0.0.1**: Added Node Search by Class Type.
